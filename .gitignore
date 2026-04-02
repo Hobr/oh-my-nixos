@@ -1,0 +1,6 @@
+.vscode
+local.md
+.direnv
+result*
+.nixie
+venv
