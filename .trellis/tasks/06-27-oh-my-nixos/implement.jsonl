@@ -1,0 +1,3 @@
+{"file": ".trellis/spec/guides/code-reuse-thinking-guide.md", "reason": "framework 以 module 工厂 + enum preset 复用，需遵循 code-reuse 思维指南避免 preset 分支重复实现"}
+{"file": ".trellis/tasks/06-27-oh-my-nixos/design.md", "reason": "§4.2 disko/§4.3 home-manager 接线/§4.4 agenix 边界，实现时须对照落地，不可偏离接线约定"}
+{"file": ".trellis/spec/guides/cross-layer-thinking-guide.md", "reason": "host/home/disko/impermanence/agenix 跨多个 module 层与磁盘布局有边界契约，数据流勿随意穿层"}

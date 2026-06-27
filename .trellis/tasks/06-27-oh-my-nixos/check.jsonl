@@ -1,0 +1,3 @@
+{"file": ".trellis/tasks/06-27-oh-my-nixos/prd.md", "reason": "check 阶段对照 Acceptance Criteria 与 R1–R9 验收，不可偏离"}
+{"file": ".trellis/tasks/06-27-oh-my-nixos/design.md", "reason": "§3 option 契约与 §6 安全默认是检查默认值正确性的基准"}
+{"file": ".trellis/spec/guides/cross-layer-thinking-guide.md", "reason": "检查 host 跨层引用 home、disko 与 impermanence 同步性"}
